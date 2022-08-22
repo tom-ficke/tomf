@@ -31,7 +31,7 @@ twitter_username: tomficke
 github_username:  tom-ficke
 
 # Build settings
-theme: minima
+remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-feed
 
