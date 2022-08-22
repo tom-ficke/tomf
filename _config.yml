@@ -31,7 +31,8 @@ twitter_username: tomficke
 github_username:  tom-ficke
 
 # Build settings
-remote_theme: just-the-docs/just-the-docs
+remote_theme:  andrewbanchich/forty-jekyll-theme
+
 plugins:
   - jekyll-feed
 
